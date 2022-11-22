@@ -25,7 +25,7 @@ If successful, the following are logged
 - Embed the link (https://log.cyclic.app/log/YOUR_ID_HERE) in the webpage in which you want to enable logging
 - You could embed the link as an invisible image or use any other method that works
 
-**Note: May not work as expected on GitHub README pages, due to SSR**
+**Note: May not work as expected on GitHub README pages due to SSR**
 
 E.g. `<img src="https://log.cyclic.app/log/YOUR_ID_HERE" style="display:none">`
 
