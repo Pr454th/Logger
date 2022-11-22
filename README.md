@@ -30,4 +30,4 @@ E.g. `<img src="https://log.cyclic.app/log/YOUR_ID_HERE" style="display:none">`
 ### Viewing the logs
 - Visit https://log.cyclic.app/logs/YOUR_ID_HERE to receive your page logs as JSON
 
-<!-- <img src="https://log.cyclic.app/log/test" alt="" /> -->
+<img src="https://log.cyclic.app/log/loggerGithubReadme" alt="" />
