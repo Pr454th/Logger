@@ -1,4 +1,4 @@
 # Logger
-A simple logging API that can be used on web pages
+A logging API :P
 
 <img src="https://log.cyclic.app/log/test" alt="" />
