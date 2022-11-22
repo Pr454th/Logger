@@ -16,7 +16,8 @@ If successful, the following are logged
 - Timezone
 - ISP
 - Organization
-The above information are fetched using the IP Geolocation API and may not be always accurate
+
+> The above information are fetched using the IP Geolocation API and may not be always accurate
 
 ### How to use?
 - Visit <a href="https://log.cyclic.app/ids">log.cyclic.app/ids</a> to see ids that are in use
