@@ -1,5 +1,6 @@
 # Logger
-A no fuss logging API :P
+A no fuss logging API
+#### ✨ Effective even in the presence of content/ad blockers like uBlock Origin
 
 ### What gets logged?
 If successful, the following are logged
