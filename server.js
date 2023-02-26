@@ -4,10 +4,13 @@ const mongoose = require("mongoose");
 const getIds = require("./log/getIds");
 const getLogs = require("./log/getLogs");
 const logger = require("./log/log");
+const cors = require("cors");
 
 const app = express();
 
 app.use(express.json());
+
+app.use(cors());
 
 // get all registered ids
 app.use("/ids", getIds);
